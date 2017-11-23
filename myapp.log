@@ -1,0 +1,3 @@
+Tue, 07 Nov 2017 10:36:38 logging_test.py[line:12] DEBUG This is debug message
+Tue, 07 Nov 2017 10:36:38 logging_test.py[line:13] INFO This is info message
+Tue, 07 Nov 2017 10:36:38 logging_test.py[line:14] WARNING This is warning message
