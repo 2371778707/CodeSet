@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d906e36-5fc9-4d3d-87ea-f859930d1141" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bloom_filter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/set.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7d906e36-5fc9-4d3d-87ea-f859930d1141" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,9 +121,11 @@
       <file leaf-file-name="bloom_filter.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bloom_filter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="2394">
+              <caret line="117" column="4" lean-forward="false" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+              <folding>
+                <element signature="e#92#130#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -808,9 +806,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bloom_filter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="2394">
+          <caret line="117" column="4" lean-forward="false" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+          <folding>
+            <element signature="e#92#130#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
