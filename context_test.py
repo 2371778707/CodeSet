@@ -31,10 +31,12 @@ def cc(str):
 
 #使用结合来管理多嵌套ctx
 #未结合
-with cc("lin") as lin:
-    with cc("han") as han:
-        with cc("qiu") as qiu:
-            print(lin+han+qiu)
+# with cc("lin") as lin:
+#     with cc("han") as han:
+#         with cc("qiu") as qiu:
+#             print(lin+han+qiu)
 #结合
 with cc("lin") as l,cc("han") as b,cc("qiu") as c:
-    print(l,b,c)
+    print(c)
+# 构造logger 装饰器
+import sys
